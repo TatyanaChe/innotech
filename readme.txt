@@ -5,3 +5,5 @@ Linux
 >gradlew clean test
 the web page for allure report is located here:
 <project root dir>/build/reports/tests/test/index.html
+
+the example of generated allure report is placed in <project root dir>/report-example
